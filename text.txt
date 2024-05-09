@@ -1,0 +1,101 @@
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Karthika C.G Resume</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+}
+.contact-info {
+  text-align: center;
+}
+.education {
+  margin-top: 20px;
+}
+.education h3 {
+  text-decoration: underline;
+}
+.expertise,
+.technical-skills,
+.strengths,
+.hobbies {
+  margin-top: 20px;
+}
+.expertise h3,
+.technical-skills h3,
+.strengths h3,
+.hobbies h3 {
+  text-decoration: underline;
+}
+.expertise ul,
+.technical-skills ul,
+.strengths ul,
+.hobbies ul {
+  list-style: none;
+  padding: 0;
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>Karthika C.G</h1>
+  <h2>STUDENT</h2>
+  <div class="contact-info">
+    <p>Phone: 77602-19369</p>
+    <p>Email: karthikacg01@gmail.com</p>
+    <p>Address: Chickakkadiganahalli(v), Chickballapura(T/D), Pincode--562101 Karnataka</p>
+  </div>
+  <div class="education">
+    <h3>EDUCATION</h3>
+    <p>BCA (Bachelor of Computer Application) - Bengaluru North University (2021-2024)</p>
+    <p>PUC - PU Board (2020-2021) St Joseph's Girls pu college, chickaballapur</p>
+    <p>SSLC - KSEEB (2018-2019) Indian public school, chickaballapur</p>
+  </div>
+  <div class="objective">
+    <h3>OBJECTIVE</h3>
+    <p>Highly motivated BCA graduate with a passion for data science seeking a junior data scientist role to apply machine learning techniques and solve complex business problems.</p>
+  </div>
+  <div class="expertise">
+    <h3>EXPERTISE</h3>
+    <ul>
+      <li>Python</li>
+      <li>C programming</li>
+      <li>R programming</li>
+    </ul>
+  </div>
+  <div class="technical-skills">
+    <h3>TECHNICAL SKILLS</h3>
+    <ul>
+      <li>Machine Learning</li>
+      <li>Deep Learning</li>
+      <li>Big Data Tools</li>
+    </ul>
+  </div>
+  <div class="strengths">
+    <h3>STRENGTHS</h3>
+    <ul>
+      <li>Leadership</li>
+      <li>Problem solving</li>
+      <li>Teamwork</li>
+      <li>Group Communication</li>
+    </ul>
+  </div>
+  <div class="hobbies">
+    <h3>HOBBIES</h3>
+    <ul>
+      <li>Reading</li>
+      <li>Dancing</li>
+      <li>Travelling</li>
+      <li>Listening Music</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>
